@@ -1,0 +1,7 @@
+C:\Users\maksy\source\repos\TreeRB\TreeRB\bin\Debug\TreeRB.exe.config
+C:\Users\maksy\source\repos\TreeRB\TreeRB\bin\Debug\TreeRB.exe
+C:\Users\maksy\source\repos\TreeRB\TreeRB\bin\Debug\TreeRB.pdb
+C:\Users\maksy\source\repos\TreeRB\TreeRB\obj\Debug\TreeRB.csprojAssemblyReference.cache
+C:\Users\maksy\source\repos\TreeRB\TreeRB\obj\Debug\TreeRB.csproj.CoreCompileInputs.cache
+C:\Users\maksy\source\repos\TreeRB\TreeRB\obj\Debug\TreeRB.exe
+C:\Users\maksy\source\repos\TreeRB\TreeRB\obj\Debug\TreeRB.pdb
